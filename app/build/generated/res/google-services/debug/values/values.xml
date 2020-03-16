@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">507991681622-ltmf0rg8opsks375dnltsfghudc2a1n3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://my-order-b400f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">507991681622</string>
+    <string name="google_api_key" translatable="false">AIzaSyBjhJNto5-1OstnSkefdQHpAXr-GPuk7ks</string>
+    <string name="google_app_id" translatable="false">1:507991681622:android:9037b1a76e65af86</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBjhJNto5-1OstnSkefdQHpAXr-GPuk7ks</string>
+    <string name="google_storage_bucket" translatable="false">my-order-b400f.appspot.com</string>
+    <string name="project_id" translatable="false">my-order-b400f</string>
+</resources>
